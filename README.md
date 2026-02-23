@@ -42,9 +42,9 @@ NOTE : USE APK V1 AND V2 WITH OLD SERVER CODE
 
 ## How to use
 - Search  BotFather on Telegram
-![Bot Father](https://t.me/BotFather)
+[Bot Father](https://t.me/BotFather)
 - search your chatid
-![Chat id](https://t.me/chatIDrobot)
+[Chat id](https://t.me/chatIDrobot)
 - Copy your Bot token
 - Go to glitch.com click or Replit
  [glitch](https://apk-easy-tool.en.lo4d.com/windows) or 
