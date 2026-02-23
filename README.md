@@ -1,4 +1,4 @@
-![Logo](https://999xprofit.com/dogs/logo.png)
+
 
 [![instagram](https://img.shields.io/badge/CONTACT-TELEGRAM-blue)](https://t.me/shivayadavv)
 [![instagram](https://img.shields.io/badge/CONTACT-INSTAGRAM-red)](https://instagram.com/shivaya.dav)
